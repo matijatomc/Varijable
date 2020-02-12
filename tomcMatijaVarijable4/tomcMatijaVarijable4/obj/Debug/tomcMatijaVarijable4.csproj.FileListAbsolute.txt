@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaVarijable4\tomcMatijaVarijable4\bin\Debug\tomcMatijaVarijable4.exe.config
+C:\Users\Matija\source\repos\tomcMatijaVarijable4\tomcMatijaVarijable4\bin\Debug\tomcMatijaVarijable4.exe
+C:\Users\Matija\source\repos\tomcMatijaVarijable4\tomcMatijaVarijable4\bin\Debug\tomcMatijaVarijable4.pdb
+C:\Users\Matija\source\repos\tomcMatijaVarijable4\tomcMatijaVarijable4\obj\Debug\tomcMatijaVarijable4.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaVarijable4\tomcMatijaVarijable4\obj\Debug\tomcMatijaVarijable4.exe
+C:\Users\Matija\source\repos\tomcMatijaVarijable4\tomcMatijaVarijable4\obj\Debug\tomcMatijaVarijable4.pdb
